@@ -1,2 +1,11 @@
-# QuCore-Dynamic-News
-Company news, announcements, and updates platform.
+# QuCore Dynamic News
+
+**Stay updated with the latest company news and announcements.**
+
+## Features
+- News feed
+- Announcements
+- About us
+
+## Demo
+SOON
